@@ -1,2 +1,2 @@
 # Technical Info for SoftVisioners
-Hello World
+This is a landing page
