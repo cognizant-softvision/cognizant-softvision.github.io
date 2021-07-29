@@ -1,2 +1,2 @@
-#Technical Info for Softvisioners
+#Technical Info for SoftVisioners
 Hello World
