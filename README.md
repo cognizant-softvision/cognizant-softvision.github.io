@@ -1,2 +1,2 @@
 # cognizant-softvision.github.io
-Public site for Cognizant-SoftVision static content.
+Public site for developing Cognizant-SoftVision static content.
