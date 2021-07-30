@@ -10,4 +10,10 @@ playbook are organized under. There is also an alphabetical index of articles.
   * [Start of Maintaining Old Code](start-of-maintenance.md)
 * Practices for running projects
   * [Managing Client Expectations](manage-client-expectations.md)
+  * [Software Development Life Cycle](sdlc.md)
+* DevOps
+  * [What we must Expect from DevOps](devops-expectations.md)
+    * [Automated Build Process](automated-builds.md)
+  * [Continuous Integration](ci.md)
+  * [Continuous Delivery](cd.md)
 
