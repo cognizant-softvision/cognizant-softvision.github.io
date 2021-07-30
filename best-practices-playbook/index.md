@@ -9,4 +9,5 @@ playbook are organized under. There is also an alphabetical index of articles.
 * Guidance for the start of a project
   * [Start of Maintaining Old Code](start-of-maintenance.md)
 * Practices for running projects
+  * [Managing Client Expectations](manage-client-expectations.md)
 
