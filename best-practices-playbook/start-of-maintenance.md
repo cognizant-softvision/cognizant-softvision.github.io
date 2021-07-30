@@ -8,7 +8,8 @@ found after you make any changes.
 If there are any problems with the build not working or test not passing,
 then it is important to carefully capture a log of the build and describe
 the problems. These problems must be explained to the client with the goals
-of adjusting schedules and setting client expectations. 
+of adjusting schedules and 
+[setting client expectations](manage-client-expectations.md). 
 
 The preceding advice assumes that someone knows how to build the code or
 that there is an automated build process that uses build tools that are so
