@@ -11,6 +11,7 @@ playbook are organized under. There is also an alphabetical index of articles.
 * Practices for running projects
   * [Managing Client Expectations](manage-client-expectations.md)
   * [Software Development Life Cycle](sdlc.md)
+  * [Writing Jira Tickets](jira-tickets.md)
 * DevOps
   * [What we must Expect from DevOps](devops-expectations.md)
     * [Automated Build Process](automated-builds.md)
